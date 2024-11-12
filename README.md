@@ -3,6 +3,8 @@
 
 ---
 
+Open Here
+https://colab.research.google.com/drive/1UtNFv1KcQcxgSgk7tGr-oBLzeJu00KIO?usp=sharing
 
 
 > Vocal Word Prediction "A, I, U, E, O, a, i, u, e, o" by input picture only with accuracy 98%
