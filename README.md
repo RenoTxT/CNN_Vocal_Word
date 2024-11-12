@@ -7,9 +7,9 @@
 
 > Vocal Word Prediction "A, I, U, E, O, a, i, u, e, o" by input picture only with accuracy 98%
 <br/>
-> Made by *Reno Mardiputra*
+> Made by Reno Mardiputra
 <br/>
-> *Copyright 2024 Portbyte Technology*
+> Copyright 2024 Portbyte Technology
 
 ---
 
